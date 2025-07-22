@@ -20,9 +20,9 @@ Email: qiuxia@comp.nus.edu.sg -->
 
 ---
 
-📅 08/2020-Present: PhD of Computer Science, National University of Singapore, advised by by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/)
+📅 08/2020-Present: PhD of Computer Science, National University of Singapore, advised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/)
 
-🎓 Received Bachelor & Master degree in Beijing Institute of Technology, advised by [Prof. Chi (Harold) Liu](https://pure.bit.edu.cn/en/persons/chi-liu) & [Prof. Shuang Li](https://shuangli.xyz/)
+🎓 Received Bachelor & Master degrees at Beijing Institute of Technology, advised by [Prof. Chi (Harold) Liu](https://pure.bit.edu.cn/en/persons/chi-liu) & [Prof. Shuang Li](https://shuangli.xyz/)
 
 [GitHub](https://github.com/linqiuxia-lynn) | [Google Scholar](https://scholar.google.com/citations?user=fUCbVmcAAAAJ&hl=en) | [DBLP](https://dblp.org/pid/243/1756.html) |
 
@@ -61,7 +61,7 @@ Hi! I am currently a PhD student of Computer Science at National University of S
 
 
 <div style="display: flex; align-items: flex-start;margin-top:20px">
-<img src="img/thumb_neurips23.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
+<img src="img/neurips23.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
   <div style="flex: 1; margin-left: 20px;">
 <p>
 <font color="blue">Synthetic-to-Real Pose Estimation with Geometric Reconstruction</font><br>
