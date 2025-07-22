@@ -77,7 +77,7 @@ Hi! I am currently a PhD student of Computer Science at National University of S
   <div style="flex: 1; margin-left: 20px;">
 <p>
 <font color="blue">Cross-Domain 3D Hand Pose Estimation with Dual Modalities</font><br>
-<p><u>Qiuxia Lin</u>, Linlin Yang, Angela Yao<br>
+<u>Qiuxia Lin</u>, Linlin Yang, Angela Yao<br>
 <font style="font-family: OpenSans_italic;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)</font>, 2023<br>
 <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Cross-Domain_3D_Hand_Pose_Estimation_With_Dual_Modalities_CVPR_2023_paper.pdf" target="_blank">PDF</a>  
 </p>
