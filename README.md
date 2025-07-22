@@ -91,7 +91,7 @@ Hi! I am currently a PhD student of Computer Science at National University of S
 <p>
 <font color="blue">Generalized Domain Conditioned Adaptation Network</font><br>
 Shuang Li, Binhui Xie, <u>Qiuxia Lin</u>, Chi (Harold) Liu, Gao Huang, Guoren Wang<br>
-<font style="font-family: OpenSans_italic;">IEEE transactions on pattern analysis and machine intelligence (TPAMI)</font>, 2021<br>
+<font style="font-family: OpenSans_italic;">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>, 2021<br>
 <a href="https://arxiv.org/pdf/2103.12339" target="_blank">PDF</a>  
 </p>
 </div>
@@ -105,7 +105,7 @@ Shuang Li, Binhui Xie, <u>Qiuxia Lin</u>, Chi (Harold) Liu, Gao Huang, Guoren Wa
 <font color="blue">Deep Residual Correction Network for Partial Domain Adaptation</font><br>
 Shuang Li, Chi (Harold) Liu, <u>Qiuxia Lin</u>, Qi Wen, Limin Su,
 Gao Huang, Zhengming Ding<br>
-<font style="font-family: OpenSans_italic;">IEEE transactions on pattern analysis and machine intelligence (TPAMI)</font>, 2020<br>
+<font style="font-family: OpenSans_italic;">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>, 2020<br>
 <a href="https://arxiv.org/pdf/2004.04914" target="_blank">PDF</a>  
 </p>
 </div>
@@ -118,12 +118,8 @@ Gao Huang, Zhengming Ding<br>
 <p>
 <font color="blue">Domain Conditioned Adaptation Network</font><br>
 Shuang Li, Chi (Harold) Liu, <u>Qiuxia Lin</u>, Binhui Xie, Zhengming Ding, Gao Huang, Jian Tang<br>
-<font style="font-family: OpenSans_italic;">The Proceedings of the AAAI conference on artificial intelligence (AAAI)</font>, 2019<br>
+<font style="font-family: OpenSans_italic;">The Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)</font>, 2019<br>
 <a href="https://arxiv.org/pdf/2005.06717" target="_blank">PDF</a>  
 </p>
 </div>
 </div>
-
-
-
-
