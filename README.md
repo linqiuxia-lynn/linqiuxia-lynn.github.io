@@ -2,25 +2,21 @@
 <div style="display: flex; align-items: flex-start;">
 <img src="img/profile2.png" alt="SearchAgent" width="200" style="border-radius: 50%; margin-left: 10px;" />
   <div style="flex: 1; margin-left: 20px;">
+    <h1>Qiuxia Lin</h1>
+    <p>Computer Vision & Machine Learning Lab</p>
+    <p>School of Computing, National University of Singapore</p>
+    <p>117416, Singapore</p>
+  </div>
+</div>
+<!-- **Qiuxia Lin**
 
-**Qiuxia Lin**
-
-Computer Vision & Machine Learning Lab
+<!-- Computer Vision & Machine Learning Lab
 
 School of Computing, National University of Singapore
 
 117416, Singapore
 
-Email: qiuxia@comp.nus.edu.sg
-
-</div>
-</div>
-
-
-
-
-
-
+Email: qiuxia@comp.nus.edu.sg --> 
 
 ---
 
@@ -52,14 +48,14 @@ Hi! I am currently a PhD student of Computer Science at National University of S
 
 
 <div style="display: flex; align-items: flex-start;">
-<img src="img/thumb_icml25.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
+<img src="img/icml25.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
   <div style="flex: 1; margin-left: 20px;">
 
-**Semantics-aware Test-time Adaptation for 3D Human Pose Estimation**
+<p>**Semantics-aware Test-time Adaptation for 3D Human Pose Estimation**</p>
 
-<u>Qiuxia Lin</u>, Rongyu Chen, Kerui Gu, Angela Yao
+<p><u>Qiuxia Lin</u>, Rongyu Chen, Kerui Gu, Angela Yao</p>
 
-*The International Conference on Machine Learning (ICML), 2025*
+*The International Conference on Machine Learning (ICML), 2025*</p>
 
 [PDF](https://arxiv.org/pdf/2502.10724) 
 
@@ -71,11 +67,11 @@ Hi! I am currently a PhD student of Computer Science at National University of S
 <img src="img/thumb_neurips23.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
   <div style="flex: 1; margin-left: 20px;">
 
-**Synthetic-to-Real Pose Estimation with Geometric Reconstruction**
+<p>**Synthetic-to-Real Pose Estimation with Geometric Reconstruction**</p>
 
-<u>Qiuxia Lin</u>, Kerui Gu, Linlin Yang, Angela Yao
+<p><u>Qiuxia Lin</u>, Kerui Gu, Linlin Yang, Angela Yao</p>
 
-*The Conference on Neural Information Processing Systems (NeurIPS), 2023*
+<p>*The Conference on Neural Information Processing Systems (NeurIPS), 2023*</p>
 
 [PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/a8223b0ad64007423ffb308b0dd92298-Paper-Conference.pdf) 
 
@@ -86,11 +82,11 @@ Hi! I am currently a PhD student of Computer Science at National University of S
 <img src="img/thumb_cvpr23.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
   <div style="flex: 1; margin-left: 20px;">
 
-**Cross-Domain 3D Hand Pose Estimation with Dual Modalities**
+<p>**Cross-Domain 3D Hand Pose Estimation with Dual Modalities**</p>
 
-<u>Qiuxia Lin</u>, Linlin Yang, Angela Yao
+<p><u>Qiuxia Lin</u>, Linlin Yang, Angela Yao</p>
 
-*The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023*
+<p>*The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023*</p>
 
 [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Cross-Domain_3D_Hand_Pose_Estimation_With_Dual_Modalities_CVPR_2023_paper.pdf)
 
@@ -102,11 +98,11 @@ Hi! I am currently a PhD student of Computer Science at National University of S
 <img src="img/thumb_tpami21.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
   <div style="flex: 1; margin-left: 20px;">
 
-**Generalized Domain Conditioned Adaptation Network**
+<p>**Generalized Domain Conditioned Adaptation Network**</p>
 
-Shuang Li, Binhui Xie, <u>Qiuxia Lin</u>, Chi (Harold) Liu, Gao Huang, Guoren Wang
+<p>Shuang Li, Binhui Xie, <u>Qiuxia Lin</u>, Chi (Harold) Liu, Gao Huang, Guoren Wang</p>
 
-*IEEE transactions on pattern analysis and machine intelligence (TPAMI), 2021*
+<p>*IEEE transactions on pattern analysis and machine intelligence (TPAMI), 2021*</p>
 
 [PDF](https://arxiv.org/pdf/2103.12339)
 
@@ -118,12 +114,12 @@ Shuang Li, Binhui Xie, <u>Qiuxia Lin</u>, Chi (Harold) Liu, Gao Huang, Guoren Wa
 <img src="img/thumb_tpami20.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
   <div style="flex: 1; margin-left: 20px;">
 
-**Deep Residual Correction Network for Partial Domain Adaptation**
+<p>**Deep Residual Correction Network for Partial Domain Adaptation**</p>
 
-Shuang Li, Chi (Harold) Liu, <u>Qiuxia Lin</u>, Qi Wen, Limin Su,
-Gao Huang, Zhengming Ding
+<p>Shuang Li, Chi (Harold) Liu, <u>Qiuxia Lin</u>, Qi Wen, Limin Su,
+Gao Huang, Zhengming Ding</p>
 
-*IEEE transactions on pattern analysis and machine intelligence (TPAMI), 2020*
+<p>*IEEE transactions on pattern analysis and machine intelligence (TPAMI), 2020*</p>
 
 [PDF](https://arxiv.org/pdf/2004.04914)
 
@@ -135,11 +131,11 @@ Gao Huang, Zhengming Ding
 <img src="img/thumb_aaai19.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
   <div style="flex: 1; margin-left: 20px;">
 
-**Domain Conditioned Adaptation Network**
+<p>**Domain Conditioned Adaptation Network**</p>
 
-Shuang Li, Chi (Harold) Liu, <u>Qiuxia Lin</u>, Binhui Xie, Zhengming Ding, Gao Huang, Jian Tang
+<p>Shuang Li, Chi (Harold) Liu, <u>Qiuxia Lin</u>, Binhui Xie, Zhengming Ding, Gao Huang, Jian Tang</p>
 
-*The Proceedings of the AAAI conference on artificial intelligence (AAAI), 2019*
+<p>*The Proceedings of the AAAI conference on artificial intelligence (AAAI), 2019*</p>
 
 [PDF](https://arxiv.org/pdf/2005.06717)
 
