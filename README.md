@@ -51,13 +51,12 @@ Hi! I am currently a PhD student of Computer Science at National University of S
 <img src="img/icml25.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
   <div style="flex: 1; margin-left: 20px;">
 
-<p>**Semantics-aware Test-time Adaptation for 3D Human Pose Estimation**</p>
-
+<font color="blue">Semantics-aware Test-time Adaptation for 3D Human Pose Estimation</font><br>
 <p><u>Qiuxia Lin</u>, Rongyu Chen, Kerui Gu, Angela Yao</p>
 
-*The International Conference on Machine Learning (ICML), 2025*</p>
+<font style="font-family: OpenSans_italic;">The International Conference on Machine Learning (ICML)</font>, 2025<br>
 
-[PDF](https://arxiv.org/pdf/2502.10724) 
+<a href="https://arxiv.org/pdf/2502.10724" target="_blank">PDF</a>  
 
 </div>
 </div>
@@ -67,13 +66,13 @@ Hi! I am currently a PhD student of Computer Science at National University of S
 <img src="img/thumb_neurips23.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
   <div style="flex: 1; margin-left: 20px;">
 
-<p>**Synthetic-to-Real Pose Estimation with Geometric Reconstruction**</p>
+<font color="blue">Synthetic-to-Real Pose Estimation with Geometric Reconstruction</font><br>
 
 <p><u>Qiuxia Lin</u>, Kerui Gu, Linlin Yang, Angela Yao</p>
 
-<p>*The Conference on Neural Information Processing Systems (NeurIPS), 2023*</p>
+<font style="font-family: OpenSans_italic;">The Conference on Neural Information Processing Systems (NeurIPS)</font>, 2023<br>
 
-[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/a8223b0ad64007423ffb308b0dd92298-Paper-Conference.pdf) 
+<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/a8223b0ad64007423ffb308b0dd92298-Paper-Conference.pdf" target="_blank">PDF</a>  
 
 </div>
 </div>
@@ -82,13 +81,13 @@ Hi! I am currently a PhD student of Computer Science at National University of S
 <img src="img/thumb_cvpr23.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
   <div style="flex: 1; margin-left: 20px;">
 
-<p>**Cross-Domain 3D Hand Pose Estimation with Dual Modalities**</p>
+<font color="blue">Cross-Domain 3D Hand Pose Estimation with Dual Modalities</font><br>
 
 <p><u>Qiuxia Lin</u>, Linlin Yang, Angela Yao</p>
 
-<p>*The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023*</p>
+<font style="font-family: OpenSans_italic;">The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)</font>, 2023<br>
 
-[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Cross-Domain_3D_Hand_Pose_Estimation_With_Dual_Modalities_CVPR_2023_paper.pdf)
+<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Cross-Domain_3D_Hand_Pose_Estimation_With_Dual_Modalities_CVPR_2023_paper.pdf" target="_blank">PDF</a>  
 
 </div>
 </div>
@@ -98,13 +97,13 @@ Hi! I am currently a PhD student of Computer Science at National University of S
 <img src="img/thumb_tpami21.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
   <div style="flex: 1; margin-left: 20px;">
 
-<p>**Generalized Domain Conditioned Adaptation Network**</p>
+<font color="blue">Generalized Domain Conditioned Adaptation Network</font><br>
 
 <p>Shuang Li, Binhui Xie, <u>Qiuxia Lin</u>, Chi (Harold) Liu, Gao Huang, Guoren Wang</p>
 
-<p>*IEEE transactions on pattern analysis and machine intelligence (TPAMI), 2021*</p>
+<font style="font-family: OpenSans_italic;">IEEE transactions on pattern analysis and machine intelligence (TPAMI)</font>, 2021<br>
 
-[PDF](https://arxiv.org/pdf/2103.12339)
+<a href="https://arxiv.org/pdf/2103.12339" target="_blank">PDF</a>  
 
 </div>
 </div>
@@ -114,14 +113,14 @@ Hi! I am currently a PhD student of Computer Science at National University of S
 <img src="img/thumb_tpami20.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
   <div style="flex: 1; margin-left: 20px;">
 
-<p>**Deep Residual Correction Network for Partial Domain Adaptation**</p>
+<font color="blue">Deep Residual Correction Network for Partial Domain Adaptation</font><br>
 
 <p>Shuang Li, Chi (Harold) Liu, <u>Qiuxia Lin</u>, Qi Wen, Limin Su,
 Gao Huang, Zhengming Ding</p>
 
-<p>*IEEE transactions on pattern analysis and machine intelligence (TPAMI), 2020*</p>
+<font style="font-family: OpenSans_italic;">IEEE transactions on pattern analysis and machine intelligence (TPAMI)</font>, 2020<br>
 
-[PDF](https://arxiv.org/pdf/2004.04914)
+<a href="https://arxiv.org/pdf/2004.04914" target="_blank">PDF</a>  
 
 </div>
 </div>
@@ -131,13 +130,13 @@ Gao Huang, Zhengming Ding</p>
 <img src="img/thumb_aaai19.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
   <div style="flex: 1; margin-left: 20px;">
 
-<p>**Domain Conditioned Adaptation Network**</p>
+<font color="blue">Domain Conditioned Adaptation Network</font><br>
 
 <p>Shuang Li, Chi (Harold) Liu, <u>Qiuxia Lin</u>, Binhui Xie, Zhengming Ding, Gao Huang, Jian Tang</p>
 
-<p>*The Proceedings of the AAAI conference on artificial intelligence (AAAI), 2019*</p>
+<font style="font-family: OpenSans_italic;">The Proceedings of the AAAI conference on artificial intelligence (AAAI)</font>, 2019<br>
 
-[PDF](https://arxiv.org/pdf/2005.06717)
+<a href="https://arxiv.org/pdf/2005.06717" target="_blank">PDF</a>  
 
 </div>
 </div>
