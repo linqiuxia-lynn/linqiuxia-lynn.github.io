@@ -37,8 +37,8 @@ Hi! I am currently a PhD student of Computer Science at National University of S
 
 ### Research Interests💡
 
+* Multimodal Understanding
 * 2D/3D Pose Estimation
-* Hand/Human Shape Recovery
 * Domain Adaptation
   
 
