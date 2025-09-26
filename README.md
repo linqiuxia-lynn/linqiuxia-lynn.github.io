@@ -31,7 +31,7 @@ Email: qiuxia@comp.nus.edu.sg -->
 
 ### About Me👩🏻‍💻
 
-Hi! I am currently a PhD student of Computer Science at National University of Singapore (NUS) with Prof. Angela as my advisor. My research interest lies in **2D/3D Pose Estimation** and **Domain Adaptation**. Particularly, I am recently focusing on using foundation and advanced models for domain adaptive pose estimation. I am exploring potential research collaborations or industry positions. Don't hesitate to get in touch!
+Hi! I am currently a PhD student of Computer Science at National University of Singapore (NUS) with Prof. Angela as my advisor. My current research centers on visual perception and multimodal understanding with large foundation and advanced models. I have previously worked on semi-/self-supervised learning and domain adaptation for 2D/3D pose estimation, with a focus on enabling robust interaction understanding across diverse environments. I am exploring potential research collaborations or industry positions. Don't hesitate to get in touch!
 
 ---
 
