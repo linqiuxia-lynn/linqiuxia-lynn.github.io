@@ -48,6 +48,19 @@ Hi! I am currently a PhD student of Computer Science at National University of S
 
 
 <div style="display: flex; align-items: flex-start;">
+<img src="img/tcsvt26.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
+  <div style="flex: 1; margin-left: 20px;">
+<p>
+<font color="blue">Online Test-time Adaptation for 3D Human Pose Estimation: A Practical Perspective with Estimated 2D Poses</font><br>
+<u>Qiuxia Lin</u>, Kerui Gu, Linlin Yang, Angela Yao<br>
+<font style="font-family: OpenSans_italic;">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</font>, 2026<br>
+<a href="https://arxiv.org/pdf/2503.11194" target="_blank">PDF</a> 
+</p>
+</div>
+</div>
+
+
+<div style="display: flex; align-items: flex-start;">
 <img src="img/icml25.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
   <div style="flex: 1; margin-left: 20px;">
 <p>
