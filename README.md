@@ -19,7 +19,7 @@ School of Electrical and Electronic Engineering, Nanyang Technological Universit
 Email: qiuxia.lin@ntu.edu.sg --> 
 
 ---
-📅 05/2026-Present: Research Fellow, Nanyang Technological University (NTU), advised by [Prof. Ziwei Wang](https://ziweiwangthu.github.io/)
+📅 05/2026-Present: Research Fellow, Nanyang Technological University, advised by [Prof. Ziwei Wang](https://ziweiwangthu.github.io/)
 
 📅 08/2020-10/2025: PhD of Computer Science, National University of Singapore, advised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/)
 
