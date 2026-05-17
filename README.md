@@ -10,13 +10,13 @@
 </div>
 <!-- **Qiuxia Lin**
 
-<!-- Computer Vision & Machine Learning Lab
+<!-- Perception and embodied INtElligence (PINE) Lab 
 
-School of Computing, National University of Singapore
+School of Electrical and Electronic Engineering, Nanyang Technological University
 
-117416, Singapore
+639798, Singapore
 
-Email: qiuxia@comp.nus.edu.sg --> 
+Email: qiuxia.lin@ntu.edu.sg --> 
 
 ---
 📅 05/2026-Present: Research Fellow, Nanyang Technological University (NTU), advised by [Prof. Ziwei Wang](https://ziweiwangthu.github.io/)
