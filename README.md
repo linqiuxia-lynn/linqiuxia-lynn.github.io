@@ -19,8 +19,9 @@ School of Computing, National University of Singapore
 Email: qiuxia@comp.nus.edu.sg --> 
 
 ---
+📅 05/2026-Present: Research Fellow, Nanyang Technological University (NTU), advised by [Prof. Ziwei Wang](https://ziweiwangthu.github.io/)
 
-📅 08/2020-Present: PhD of Computer Science, National University of Singapore, advised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/)
+📅 08/2020-10/2025: PhD of Computer Science, National University of Singapore, advised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/)
 
 🎓 Received Bachelor & Master degrees at Beijing Institute of Technology, advised by [Prof. Chi (Harold) Liu](https://pure.bit.edu.cn/en/persons/chi-liu) & [Prof. Shuang Li](https://shuangli.xyz/)
 
@@ -31,14 +32,17 @@ Email: qiuxia@comp.nus.edu.sg -->
 
 ### About Me👩🏻‍💻
 
-Hi! I am currently a PhD student of Computer Science at National University of Singapore (NUS) with Prof. Angela as my advisor. My current research centers on visual perception and multimodal understanding with large foundation and advanced models. I have previously worked on semi-/self-supervised learning and domain adaptation for 2D/3D pose estimation, with a focus on enabling robust interaction understanding across diverse environments. I am exploring potential research collaborations or industry positions. Don't hesitate to get in touch!
+Hi! I am a Postdoctoral Research Fellow at PINE Lab (NTU), working with Prof. Ziwei Wang. I received my Ph.D. in Computer Science from NUS, where I was advised by Prof. Angela Yao at the CVML Lab. My research interests lie in 3D Pose Estimation, Multimodal Understanding, VLA, World Models, and Domain Adaptation. I am particularly interested in building robust and generalizable perception systems that support interaction understanding across diverse environments. I am open to research collaborations. Please feel free to get in touch!
+
 
 ---
 
 ### Research Interests💡
 
-* Multimodal Understanding
 * 2D/3D Pose Estimation
+* Multimodal Understanding
+* VLA
+* World Models
 * Domain Adaptation
   
 
