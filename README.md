@@ -21,7 +21,7 @@ Email: qiuxia.lin@ntu.edu.sg -->
 ---
 📅 05/2026-Present: Research Fellow, Nanyang Technological University, advised by [Prof. Ziwei Wang](https://ziweiwangthu.github.io/)
 
-📅 08/2020-10/2025: PhD of Computer Science, National University of Singapore, advised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/)
+🎓 08/2020-10/2025: PhD of Computer Science, National University of Singapore, advised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/)
 
 🎓 Received Bachelor & Master degrees at Beijing Institute of Technology, advised by [Prof. Chi (Harold) Liu](https://pure.bit.edu.cn/en/persons/chi-liu) & [Prof. Shuang Li](https://shuangli.xyz/)
 
