@@ -57,11 +57,10 @@ Hi! I am a Postdoctoral Research Fellow at PINE Lab (NTU), working with Prof. Zi
 <font color="blue">Dynamic Resolution Routing for Efficient Egocentric Grounding</font><br>
 Huixin Sun, Wangbo Zhao, Fanyue Wei, <u>Qiuxia Lin</u>, Pengzhan Sun, Angela Yao<br>
 <font style="font-family: OpenSans_italic;">The Conference on Neural Information Processing Systems (NeurIPS)</font>, 2026<br>
-<a href="https://arxiv.org/pdf/2502.10724" target="_blank">PDF</a> 
+<a href="https://arxiv.org/pdf/2608.01638" target="_blank">PDF</a> 
 </p>
 </div>
 </div>
-
 
 <div style="display: flex; align-items: flex-start;">
 <img src="img/tcsvt26.png" alt="SearchAgent" width="200" style="margin-left: 20px;"/>
